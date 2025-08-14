@@ -1,2 +1,2 @@
-import {  } from './js/main.js';
+import { elementsArray } from './js/main.js';
 import { updateTimer } from './js/timer.js';
