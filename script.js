@@ -1,2 +1,2 @@
 import {  } from './js/main.js';
-import {  } from './js/timer.js';
+import { updateTimer } from './js/timer.js';
