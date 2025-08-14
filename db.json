@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук Acer Aspire 5",
+    "description": "15.6\" Full HD, Intel Core i5, 8GB RAM, 512GB SSD",
+    "price": 24999
+  },
+  {
+    "id": 2,
+    "name": "Смартфон Samsung Galaxy A54",
+    "description": "6.4\" Super AMOLED, 8GB RAM, 128GB SSD",
+    "price": 15999
+  },
+  {
+    "id": 3,
+    "name": "Навушники Sony WH-1000XM4",
+    "description": "Bluetooth, шумопоглинання, до 30 годин роботи",
+    "price": 11999
+  },
+  {
+    "id": 4,
+    "name": "Ігрова мишка Logitech G502 HERO",
+    "description": "12000 DPI, RGB підсвітка, 11 програмованих кнопок",
+    "price": 2299
+  },
+  {
+    "id": 5,
+    "name": "Механічна клавіатура HyperX Alloy Origins",
+    "description": "RGB підсвітка, перемикачі HyperX Red",
+    "price": 3499
+  },
+  {
+    "id": 6,
+    "name": "Монітор LG UltraGear 27GL850",
+    "description": "27\" QHD, 144Hz, Nano IPS, 1ms відгук",
+    "price": 14999
+  },
+  {
+    "id": 7,
+    "name": "Павербанк Xiaomi Mi Power Bank 3",
+    "description": "20000mAh, швидка зарядка 18W, 2 USB-порти",
+    "price": 1299
+  },
+  {
+    "id": 8,
+    "name": "Смарт-годинник Apple Watch SE 2",
+    "description": "GPS, 44 мм, водостійкість WR50",
+    "price": 10999
+  },
+  {
+    "id": 9,
+    "name": "Електросамокат Xiaomi Mi Scooter Pro 2",
+    "description": "Макс. швидкість 25 км/год, запас ходу до 45 км",
+    "price": 21999
+  },
+  {
+    "id": 10,
+    "name": "Колонка JBL Charge 5",
+    "description": "Bluetooth, водостійкість IP67, 20 годин роботи",
+    "price": 5999
+  },
+  {
+    "id": 11,
+    "name": "Холодильник Samsung RB34T600FSA",
+    "description": "No Frost, 344 л, клас енергоефективності A+",
+    "price": 18999
+  },
+  {
+    "id": 12,
+    "name": "Пилосос Dyson V11 Absolute",
+    "description": "Бездротовий, до 60 хв роботи, фільтрація HEPA",
+    "price": 23999
+  },
+  {
+    "id": 13,
+    "name": "Мікрохвильова піч Panasonic NN-ST34HM",
+    "description": "25 л, 800 Вт, сенсорне керування",
+    "price": 3999
+  },
+  {
+    "id": 14,
+    "name": "Кавомашина DeLonghi Magnifica S",
+    "description": "Повністю автоматична, 13 ступенів помелу",
+    "price": 14999
+  },
+  {
+    "id": 15,
+    "name": "Ігрова консоль PlayStation 5",
+    "description": "SSD 825GB, підтримка 4K, контролер DualSense",
+    "price": 23999
+  },
+  {
+    "id": 16,
+    "name": "Крісло ігрове Cougar Armor One",
+    "description": "Регульована висота, PU шкіра, ергономічний дизайн",
+    "price": 6499
+  }
+]
