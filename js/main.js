@@ -6,10 +6,10 @@ fetch('http://localhost:3000/')
     elementsArray.push(...data);
     const container = document.querySelector(".wrapper")
     elementsArray.forEach(item => {
-      container.innerHTML += `<div>
-      <h3>${item.name}</h3>
-      <p>${item.description}</p>
-      <p>${item.price}</p>
+      container.innerHTML += `<div class="card">
+      <h3 class="title">${item.name}</h3>
+      <p class="descr">${item.description}</p>
+      <p class="price">${item.price}</p>
       </div>`;
     });
     document.body.appendChild(container);
@@ -17,4 +17,3 @@ fetch('http://localhost:3000/')
   .catch(error => {
     console.error('Fetch error:', error);
   });
-
